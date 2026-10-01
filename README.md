@@ -97,8 +97,6 @@ Start MongoDB, then run the services in this order:
 
 This repository is my portfolio copy of a team e-commerce project.
 
-Original team repository: https://github.com/Kuganes-Rathinam/ecomm_ip
-
 ### My Contributions
 
 - [Add the features, modules, or design work you personally completed]
