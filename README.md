@@ -97,8 +97,3 @@ Start MongoDB, then run the services in this order:
 
 This repository is my portfolio copy of a team e-commerce project.
 
-### My Contributions
-
-- [Add the features, modules, or design work you personally completed]
-- [Add your frontend, backend, database, or API responsibilities]
-- [Add testing, documentation, or deployment work you completed]
